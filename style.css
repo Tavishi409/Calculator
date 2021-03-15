@@ -1,0 +1,17 @@
+.container{
+    text-align: center
+}
+table{
+    margin: auto
+}
+input{
+    border-radius: 1cm;
+    font-size: 50px  
+}
+button{
+    border-radius: 1cm;
+    background: aquamarine;
+    font-size: 50px;
+    width: 100px;
+    height: 100px;
+}
